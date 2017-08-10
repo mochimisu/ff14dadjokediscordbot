@@ -1,0 +1,15 @@
+{
+  "name": "dadbot",
+  "version": "1.0.0",
+  "description": "ff14 dad joke bot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.io": "^2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
